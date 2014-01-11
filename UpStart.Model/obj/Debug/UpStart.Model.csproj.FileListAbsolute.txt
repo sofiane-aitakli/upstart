@@ -1,0 +1,34 @@
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\bin\Debug\UpStart.Model.dll
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\bin\Debug\UpStart.Model.pdb
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\obj\Debug\UpStart.Model.dll
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\obj\Debug\UpStart.Model.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\bin\Debug\UpStart.Model.dll
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\bin\Debug\UpStart.Model.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\obj\Debug\UpStart.Model.csprojResolveAssemblyReference.cache
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\obj\Debug\UpStart.Model.dll
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\obj\Debug\UpStart.Model.pdb
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\bin\Debug\UpStart.Model.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\bin\Debug\UpStart.Model.pdb
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\obj\Debug\UpStart.Model.csprojResolveAssemblyReference.cache
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\obj\Debug\UpStart.Model.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Model\obj\Debug\UpStart.Model.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.Model\bin\Debug\UpStart.Model.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Model\bin\Debug\UpStart.Model.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.Model\obj\Debug\UpStart.Model.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Model\obj\Debug\UpStart.Model.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.Model\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Model\obj\Debug\UpStart.Model.csprojResolveAssemblyReference.cache
+H:\pc\bureau\upstart\UpStart.Model\bin\Debug\UpStart.Model.dll
+H:\pc\bureau\upstart\UpStart.Model\bin\Debug\UpStart.Model.pdb
+H:\pc\bureau\upstart\UpStart.Model\bin\Debug\HtmlAgilityPack.dll
+H:\pc\bureau\upstart\UpStart.Model\obj\Debug\UpStart.Model.dll
+H:\pc\bureau\upstart\UpStart.Model\obj\Debug\UpStart.Model.pdb
+G:\pc\bureau\upstart\UpStart.Model\obj\Debug\UpStart.Model.csprojResolveAssemblyReference.cache
+D:\Projets\upstart\UpStart.Model\bin\Debug\UpStart.Model.dll
+D:\Projets\upstart\UpStart.Model\bin\Debug\UpStart.Model.pdb
+D:\Projets\upstart\UpStart.Model\bin\Debug\HtmlAgilityPack.dll
+D:\Projets\upstart\UpStart.Model\bin\Debug\HtmlAgilityPack.pdb
+D:\Projets\upstart\UpStart.Model\bin\Debug\HtmlAgilityPack.xml
+D:\Projets\upstart\UpStart.Model\obj\Debug\UpStart.Model.dll
+D:\Projets\upstart\UpStart.Model\obj\Debug\UpStart.Model.pdb
+D:\Projets\upstart\UpStart.Model\obj\Debug\UpStart.Model.csprojResolveAssemblyReference.cache

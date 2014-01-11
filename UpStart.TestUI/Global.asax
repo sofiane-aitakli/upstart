@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="UpStart.TestUI.MvcApplication" Language="C#" %>

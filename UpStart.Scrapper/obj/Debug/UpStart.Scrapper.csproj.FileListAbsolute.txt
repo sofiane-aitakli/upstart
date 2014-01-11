@@ -1,0 +1,53 @@
+c:\users\rex\documents\visual studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.dll
+c:\users\rex\documents\visual studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.pdb
+c:\users\rex\documents\visual studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.dll
+c:\users\rex\documents\visual studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.pdb
+c:\users\rex\documents\visual studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.xml
+c:\users\rex\documents\visual studio 2012\Projects\UpStart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.csprojResolveAssemblyReference.cache
+c:\users\rex\documents\visual studio 2012\Projects\UpStart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.dll
+c:\users\rex\documents\visual studio 2012\Projects\UpStart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.dll
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.dll
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.xml
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.csprojResolveAssemblyReference.cache
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.dll
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.pdb
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.pdb
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.pdb
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.xml
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.csprojResolveAssemblyReference.cache
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.dll.config
+C:\Users\Administrator\Desktop\upstart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.dll.config
+C:\Users\Administrator\Desktop\upstart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.Scrapper\bin\Debug\UpStart.Model.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Scrapper\bin\Debug\UpStart.Model.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.csprojResolveAssemblyReference.cache
+H:\pc\bureau\upstart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.dll.config
+H:\pc\bureau\upstart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.dll
+H:\pc\bureau\upstart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.pdb
+H:\pc\bureau\upstart\UpStart.Scrapper\bin\Debug\UpStart.Model.dll
+H:\pc\bureau\upstart\UpStart.Scrapper\bin\Debug\UpStart.Model.pdb
+H:\pc\bureau\upstart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.csprojResolveAssemblyReference.cache
+H:\pc\bureau\upstart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.dll
+H:\pc\bureau\upstart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.pdb
+G:\pc\bureau\upstart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.csprojResolveAssemblyReference.cache
+D:\Projets\upstart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.csprojResolveAssemblyReference.cache
+D:\Projets\upstart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.dll.config
+D:\Projets\upstart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.dll
+D:\Projets\upstart\UpStart.Scrapper\bin\Debug\UpStart.Scrapper.pdb
+D:\Projets\upstart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.dll
+D:\Projets\upstart\UpStart.Scrapper\bin\Debug\UpStart.Model.dll
+D:\Projets\upstart\UpStart.Scrapper\bin\Debug\UpStart.Model.pdb
+D:\Projets\upstart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.pdb
+D:\Projets\upstart\UpStart.Scrapper\bin\Debug\HtmlAgilityPack.xml
+D:\Projets\upstart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.dll
+D:\Projets\upstart\UpStart.Scrapper\obj\Debug\UpStart.Scrapper.pdb

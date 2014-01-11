@@ -1,0 +1,75 @@
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Test.dll
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Test.pdb
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\nunit.framework.dll
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Model.dll
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Scrapper.dll
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\HtmlAgilityPack.dll
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Model.pdb
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Scrapper.pdb
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\nunit.framework.xml
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\HtmlAgilityPack.xml
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\obj\Debug\UpStart.Test.csprojResolveAssemblyReference.cache
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\obj\Debug\UpStart.Test.dll
+C:\Users\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\obj\Debug\UpStart.Test.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Test.dll
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Test.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Model.dll
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Scrapper.dll
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\HtmlAgilityPack.dll
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Model.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Scrapper.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\HtmlAgilityPack.pdb
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\HtmlAgilityPack.xml
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\obj\Debug\UpStart.Test.csprojResolveAssemblyReference.cache
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\obj\Debug\UpStart.Test.dll
+D:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\obj\Debug\UpStart.Test.pdb
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Test.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Test.pdb
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\nunit.framework.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Model.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Scrapper.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\HtmlAgilityPack.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Model.pdb
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\UpStart.Scrapper.pdb
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\nunit.framework.xml
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\HtmlAgilityPack.pdb
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\bin\Debug\HtmlAgilityPack.xml
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\obj\Debug\UpStart.Test.csprojResolveAssemblyReference.cache
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\obj\Debug\UpStart.Test.dll
+G:\rex\Documents\Visual Studio 2012\Projects\UpStart\UpStart.Test\obj\Debug\UpStart.Test.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.Test\bin\Debug\UpStart.Test.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Test\bin\Debug\UpStart.Test.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.Test\bin\Debug\UpStart.Model.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Test\bin\Debug\UpStart.Scrapper.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Test\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Test\bin\Debug\UpStart.Model.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.Test\bin\Debug\UpStart.Scrapper.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.Test\obj\Debug\UpStart.Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\upstart\UpStart.Test\obj\Debug\UpStart.Test.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.Test\obj\Debug\UpStart.Test.pdb
+H:\pc\bureau\upstart\UpStart.Test\bin\Debug\UpStart.Test.dll
+H:\pc\bureau\upstart\UpStart.Test\bin\Debug\UpStart.Test.pdb
+H:\pc\bureau\upstart\UpStart.Test\bin\Debug\UpStart.Model.dll
+H:\pc\bureau\upstart\UpStart.Test\bin\Debug\UpStart.Scrapper.dll
+H:\pc\bureau\upstart\UpStart.Test\bin\Debug\HtmlAgilityPack.dll
+H:\pc\bureau\upstart\UpStart.Test\bin\Debug\UpStart.Model.pdb
+H:\pc\bureau\upstart\UpStart.Test\bin\Debug\UpStart.Scrapper.pdb
+H:\pc\bureau\upstart\UpStart.Test\obj\Debug\UpStart.Test.csprojResolveAssemblyReference.cache
+H:\pc\bureau\upstart\UpStart.Test\obj\Debug\UpStart.Test.dll
+H:\pc\bureau\upstart\UpStart.Test\obj\Debug\UpStart.Test.pdb
+G:\pc\bureau\upstart\UpStart.Test\obj\Debug\UpStart.Test.csprojResolveAssemblyReference.cache
+D:\Projets\upstart\UpStart.Test\obj\Debug\UpStart.Test.csprojResolveAssemblyReference.cache
+D:\Projets\upstart\UpStart.Test\bin\Debug\UpStart.Test.dll
+D:\Projets\upstart\UpStart.Test\bin\Debug\UpStart.Test.pdb
+D:\Projets\upstart\UpStart.Test\bin\Debug\HtmlAgilityPack.dll
+D:\Projets\upstart\UpStart.Test\bin\Debug\nunit.framework.dll
+D:\Projets\upstart\UpStart.Test\bin\Debug\UpStart.Model.dll
+D:\Projets\upstart\UpStart.Test\bin\Debug\UpStart.Scrapper.dll
+D:\Projets\upstart\UpStart.Test\bin\Debug\UpStart.Model.pdb
+D:\Projets\upstart\UpStart.Test\bin\Debug\UpStart.Scrapper.pdb
+D:\Projets\upstart\UpStart.Test\bin\Debug\HtmlAgilityPack.pdb
+D:\Projets\upstart\UpStart.Test\bin\Debug\HtmlAgilityPack.xml
+D:\Projets\upstart\UpStart.Test\bin\Debug\nunit.framework.xml
+D:\Projets\upstart\UpStart.Test\obj\Debug\UpStart.Test.dll
+D:\Projets\upstart\UpStart.Test\obj\Debug\UpStart.Test.pdb

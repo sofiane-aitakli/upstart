@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\bin\UpStart.TestUI.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\bin\UpStart.TestUI.pdb
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\bin\WebMatrix.Data.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\bin\WebMatrix.WebData.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\bin\WebMatrix.Data.xml
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\bin\WebMatrix.WebData.xml
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\obj\Debug\UpStart.TestUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\obj\Debug\UpStart.TestUI.dll
+C:\Users\Administrator\Desktop\upstart\UpStart.TestUI\obj\Debug\UpStart.TestUI.pdb
